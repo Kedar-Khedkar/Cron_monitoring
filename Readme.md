@@ -7,6 +7,7 @@
 
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://sudosages.blogspot.com/2024/01/monitoring-cron-and-anacron-jobs-step.html)
 
+![Screentshot](https://github.com/Kedar-Khedkar/Cron_monitoring/blob/main/413shots_so.png)
 
 **Cron** and **Anacron** are essential tools for automating repetitive tasks, but how do you make sure they're running as expected? This is where Telegram Bot comes into play.
 
