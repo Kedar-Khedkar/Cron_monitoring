@@ -10,7 +10,7 @@
 ![Screentshot](https://github.com/Kedar-Khedkar/Cron_monitoring/blob/main/413shots_so.png)
 
 **Cron** and **Anacron** are essential tools for automating repetitive tasks, but how do you make sure they're running as expected? This is where Telegram Bot comes into play.
-
+[Blog Post](https://sudosages.blogspot.com/2024/01/monitoring-cron-and-anacron-jobs-step.html?m=1)
 
 ## Run Locally
 1. Download `template.sh`
